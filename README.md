@@ -30,6 +30,9 @@ FOLDER_NAME = "-----"
 ### Add Excel Files
 Place all .xlsx, .xls, .xlsm files inside the tables/ directory.
 
-### Running the Main Process
-To start the import process, run the following command:
-```python main.py```
+### Running the Main Process  
+To start the import process, run the following command:  
+
+```
+python main.py
+```
